@@ -732,7 +732,7 @@
     "id": "morethantv",
     "title": "morethan.tv",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA90lEQVQ4y2NgAIKFskr6QFwFxD1AXIwFFwFxJRD3AnEOEHsCMRcDVLMyEBcAcS0QFwJxOdSwSiRcBTUoCYgPAfF/IH4OxHogA7iBmI2BBABUfxRqyFQGcgBQ40KoAfPQJXaDJAbGACBnJlQQGb+DyhlD+bvxGZAGxHehEjNhrgHiUGjMgNjlRHsBqhFm2BkoW5AoA5AUvkPyziokdYtwGbAKSYMLktPBfGIMUII6eSaUDeN3EBWNZCUkIMEOxMwkGrAHasAMEEcdiHOhuQyEs3HgLCCOBuLNUM2/gdgRZAALECdAnTULZCoOPB2UeYD4ABBvA2sGAgCUmORTQ4TyTQAAAABJRU5ErkJggg==",
-    "url": "https://www.morethan.tv/torrents.php?searchstr={{IMDB_TITLE}}&filter_cat%5B1%5D=1",
+    "url": "https://www.morethantv.me/torrents.php?searchstr={{IMDB_TITLE}}&filter_cat%5B1%5D=1",
     "noResultsMatcher": "Your search did not match anything",
     "noAccessMatcher": "Login :: morethan.tv",
     "category": "priv_tracker"
